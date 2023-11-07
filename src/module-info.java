@@ -1,0 +1,2 @@
+module CoreJavaBrushupfb2 {
+}
